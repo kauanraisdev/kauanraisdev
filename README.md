@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Back-end C#  
 🚀 Foco em .NET e aplicações empresariais  
-🎯 Em formação como Especialista Back-end pela Rocketseat  
+🎯 Formado como Especialista Back-end pela Rocketseat  
 🎓 Graduando em Análise e Desenvolvimento de Sistemas – FMU (02/2024 – 06/2026)
 
 ---
