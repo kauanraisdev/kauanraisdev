@@ -13,7 +13,7 @@ Sou desenvolvedor focado no ecossistema .NET, com experiência prática na const
 
 Tenho como objetivo evoluir para Desenvolvedor Fullstack .NET, criando aplicações escaláveis, bem estruturadas e alinhadas com boas práticas de mercado.
 
-Curto código limpo, arquitetura bem pensada e resolver problema de verdade — não só fazer CRUD por fazer 😅
+Curto código limpo, arquitetura bem pensada.
 
 ---
 
